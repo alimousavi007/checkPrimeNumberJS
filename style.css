@@ -1,0 +1,13 @@
+body{
+    background-color: #f1ab00;
+}
+#msgResult{
+    
+    color: #fff;
+    font-size: 1.5em;
+    padding : 20px;
+    overflow: hidden;
+    text-align: center;
+    background-color : #b21807;
+    border-radius: 15px;
+}
