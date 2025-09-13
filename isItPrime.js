@@ -12,7 +12,7 @@ window.onload = function (){
     function checkPrime(){
         var number = inputBox.value;
 
-        if(isNaN(number) || number ==""){
+        if(isNaN(number) || number ===""){
             msgResult.innerHTML = "Please enter a number";
             inputBox.value = "";
             inputBox.focus();
